@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Polonium</h1>
-<h3 align="center">Типо в 16 лет React-Front-end developer.</h3>
+<h3 align="center">Типо в 18 лет React-Front-end developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maksim20000&label=Profile%20views&color=0e75b6&style=flat" alt="maksim20000" /> </p>
 

@@ -1,5 +1,5 @@
 <h1 align="center">Привет 👋, Меня зовут Максим</h1>
-<h3 align="center">Мне 16 лет и я занимаюсь разработкой сайтов на Tilda.</h3>
+<h3 align="center">Я занимаюсь разработкой сайтов на Tilda.</h3>
 <figure><embed src="https://wakatime.com/share/@85a2fd36-5096-4f83-aa26-90f3774e3427/9bfacec4-2c0d-46b7-bd4e-b78357d9e84d.svg"></embed></figure>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maksim20000&label=Profile%20views&color=0e75b6&style=flat" alt="maksim20000" /> </p>
